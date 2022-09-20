@@ -1,0 +1,24 @@
+{
+    "name": "markone",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+      "chalk": "^5.0.1",
+      "data-uri-to-buffer": "^4.0.0",
+      "fetch-blob": "^3.1.5",
+      "formdata-polyfill": "^4.0.10",
+      "node-domexception": "^1.0.0",
+      "node-fetch": "^3.2.6",
+      "readline-sync": "^1.4.10",
+      "web-streams-polyfill": "^3.2.1"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
